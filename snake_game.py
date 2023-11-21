@@ -7,7 +7,7 @@ from scoreboard import ScoreBoard
 screen=Screen()
 screen.setup(height=600,width=600)
 screen.bgcolor('black')
-screen.title('BK Snake Game')
+screen.title('RK Snake Game')
 screen.tracer(0)
 starting_position=[(0,0),(-20,0),(-40,0)]
 
